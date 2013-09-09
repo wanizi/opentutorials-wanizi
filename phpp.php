@@ -11,8 +11,8 @@
                 var curr_sec = d.getSeconds();
                 document.write('Current time is '+curr_hour+":"+curr_min+":"+curr_sec+" (by javascript)");
         </script>
-		<?php
-		echo 'egoing';
-		?>
+<?php
+echo 'egoing';
+?>
         </body>
 </html>
